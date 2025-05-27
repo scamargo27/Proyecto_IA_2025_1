@@ -3,10 +3,11 @@
 ![Banner](./BannerIA.jpg)
 
 ## Autores
-Santiago Camargo, Luis Benavides
+Santiago Camargo Ardila - 2211873
+Luis Carlos Benavides Torres - 2211925
 
 ## Objetivo
-Predecir con precisión y eficiencia la aprobación de un préstamo bancario, a partir del análisis del perfil del solicitante.
+Predecir con precisión y eficiencia la aprobación de un préstamo bancario a partir del análisis del perfil del solicitante.
 
 ## Dataset
 Disponible en [Kaggle](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval).
